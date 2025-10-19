@@ -1,18 +1,23 @@
-#ASPNET-DK24TTC2-TRUONGTHICAMHIEN-xaydungwebsitetuyendungvieclamtructuyen
-## Giới thiệu
-## Dự án này là hệ thống website tuyển dụng việc làm trực tuyến được phát triển bằng ASP.NET
-## Cấu trúc thư mục
-**setup/**: chứa các tệp cài đặt, hướng dẫn chạy chương trình.  
-**src/**: chứa mã nguồn và dữ liệu thử nghiệm.  
-**progress-report/**:chứa các báo cáo tiến độ đồ án.  
-  - doc/: file .doc
-  - pdf/: file. PDF
-  - html/:file web
-  - abs/: (.PPT, AVI,...)
--**soft/**: phần mềm liên quan
--**docker/**: cấu hình triển khai trên docker
-##Thông tin liên hệ
-- Tác giả: Trương Thị Cẩm Hiền
-- Email: hienttc280687@tvu-onschool.edu.vn
-- Lớp: DK24TTC2
-
+Báo cáo tiến độ - Tuần 1
+**Họ và tên:** Trương Thị Cẩm Hiền  
+**MSSV:** DK24TTC2  - 170124158
+**Dự án:** Xây dựng website tuyển dụng việc làm trực tuyến (ASP.NET)  
+**Thời gian:** 12/10/2025 – 19/10/2025  
+---
+## 1. Công việc đã hoàn thành 
+- Tạo repository GitHub và cấu trúc thư mục dự án.  
+- Cài đặt môi trường phát triển (Visual Studio, .NET SDK, Docker).  
+- Khởi tạo project ASP.NET Core MVC.  
+- Tìm hiểu về cách triển khai mô hình MVC trong ASP.NET.  
+---
+## 2. Kế hoạch tuần tiếp theo 
+- Viết báo cáo và nêu lý do chọn đề tài. 
+- Kết nối cơ sở dữ liệu SQL Server.  
+- Viết tài liệu mô tả chức năng người dùng.  
+---
+## 3. Khó khăn gặp phải 
+- Chưa quen thao tác với Docker Compose.  
+- Gặp lỗi khi build project ASP.NET trên môi trường container.  
+---
+## 4. Ghi chú 
+- Sẽ dành thời gian ôn lại kiến thức về Entity Framework Core.  
